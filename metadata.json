@@ -1,0 +1,6 @@
+{
+  "name": "NOVA — Living Personal AI Assistant",
+  "description": "A living personal AI assistant powered by Gemini with an expressive reactive orb, voice mode, long-term memory graph, and integrated productivity tools.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
